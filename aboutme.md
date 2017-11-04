@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who Am I
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+Jestem Jakub Kot i tyle ci powinno wystarczyc 
 
 What else do you need?
 
-### my history
+lubie pizze, html-a, SQL-a, ucze sie java-scripta C++ pythona i czegos jeszcze nie pamietam czego
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+jak wygladam
+
+o tak
+
+![szlug](https://pbs.twimg.com/profile_images/770988444965281792/64j0iSsV.jpg)
+
+nie no beka 
+
+o tak
+![sol](https://vignette.wikia.nocookie.net/leagueoflegends/images/0/05/Aurelion_Sol_OriginalSkin.jpg/revision/latest?cb=20170615221255)
