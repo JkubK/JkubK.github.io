@@ -14,7 +14,7 @@ subtitle: kim jestem
 
 **o tak**
 
-![szlug](https://pbs.twimg.com/profile_images/770988444965281792/64j0iSsV.jpg)
+![szlug](http://www.ziemniakispolka.pl/wp-content/uploads/2015/05/ziemniak.png)
 
 **nie no beka **
 
